@@ -8,7 +8,7 @@
   
     "env": {
       "SESSION_ID": {
-        "description": "Put your SESSION_ID here",
+        "description": "VISPER-SESSIONS=PD45D0.json",
         "value":"",
         "required": true
         
